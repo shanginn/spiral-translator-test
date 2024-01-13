@@ -6,6 +6,7 @@
 
 <define:body>
     <h1 class="main-title">The PHP Framework <span>for future Innovators</span></h1>
+    <h2>[[string in template]]</h2>
 
     <p class="main-description">Spiral Framework is a high-performance, intuitive platform for building scalable
         enterprise applications, combining powerful features with an efficient developer experience.</p>
